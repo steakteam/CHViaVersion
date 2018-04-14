@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CHViaVersion">
+    <output-path>$PROJECT_DIR$/out/artifact</output-path>
+    <root id="archive" name="CHViaVersion.jar">
+      <element id="module-output" name="CHViaVersion" />
+    </root>
+  </artifact>
+</component>

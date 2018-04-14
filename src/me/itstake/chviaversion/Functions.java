@@ -1,4 +1,4 @@
-package me.itstake.chprotocolsupport;
+package me.itstake.chviaversion;
 
 import com.laytonsmith.PureUtilities.SimpleVersion;
 import com.laytonsmith.PureUtilities.Version;

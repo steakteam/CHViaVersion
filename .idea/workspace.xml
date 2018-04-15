@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3afee283-4967-4a21-8b09-842abbfd3e62" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/CHProtocolSupport.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CHProtocolSupport.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/ProtocolSupport.jar" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/me/itstake/chviaversion/bossbar/BossBarFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/me/itstake/chviaversion/Functions.java" afterPath="$PROJECT_DIR$/src/me/itstake/chviaversion/Functions.java" />
     </list>
     <ignored path="CHProtocolSupport.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,90 +25,213 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LifeCylcles.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1523803764388" expanded="true" signature="88287:88302" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="88337:90883" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="88350:90868" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="88404:88788" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="88423:88773" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="88536:88753" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="88576:88719" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="88597:88697" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="88838:89165" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="88857:89150" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="88952:89130" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="88992:89096" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89013:89074" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89216:89481" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89235:89466" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89268:89446" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89308:89412" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89329:89390" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89524:89830" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89543:89815" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89617:89795" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89657:89761" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89678:89739" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89881:90196" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89900:90181" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="89983:90161" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="90023:90127" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="90044:90105" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="90231:90537" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="90250:90522" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="90324:90502" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="90364:90468" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="90385:90446" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="90589:90854" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="90608:90839" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="90641:90819" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="90681:90785" ph="..." />
+                <marker date="1523803764388" expanded="true" signature="90702:90763" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Functions.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java">
+        <entry file="file://$PROJECT_DIR$/src/me/itstake/chviaversion/Functions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="72" column="17" lean-forward="false" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
+            <state relative-caret-position="1691">
+              <caret line="436" column="73" lean-forward="false" selection-start-line="436" selection-start-column="73" selection-end-line="436" selection-end-column="73" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1464#1465#0" expanded="true" />
-                <element signature="e#1519#1520#0" expanded="true" />
-                <element signature="e#1949#1950#0" expanded="true" />
-                <element signature="e#1985#1986#0" expanded="true" />
-                <element signature="e#2040#2041#0" expanded="true" />
-                <element signature="e#2076#2077#0" expanded="true" />
-                <element signature="e#2909#2910#0" expanded="true" />
-                <element signature="e#2964#2965#0" expanded="true" />
-                <element signature="e#3020#3021#0" expanded="true" />
-                <element signature="e#3070#3071#0" expanded="true" />
-                <element signature="e#3407#3408#0" expanded="true" />
-                <element signature="e#3464#3465#0" expanded="true" />
+                <element signature="e#1337#1338#0" expanded="true" />
+                <element signature="e#1392#1393#0" expanded="true" />
+                <element signature="class#via_add_bossbar#0;class#Functions#0" expanded="false" />
+                <element signature="e#3703#3704#0" expanded="true" />
+                <element signature="e#3738#3739#0" expanded="true" />
+                <element signature="e#3793#3794#0" expanded="true" />
+                <element signature="e#3829#3830#0" expanded="true" />
+                <element signature="method#exec#0;class#via_add_bossbar#0;class#Functions#0" expanded="false" />
+                <element signature="e#6378#6379#0" expanded="true" />
+                <element signature="e#6435#6436#0" expanded="true" />
+                <element signature="e#6488#6489#0" expanded="true" />
+                <element signature="e#6536#6537#0" expanded="true" />
+                <element signature="e#6592#6593#0" expanded="true" />
+                <element signature="e#6637#6638#0" expanded="true" />
+                <element signature="class#via_remove_bossbar#0;class#Functions#0" expanded="false" />
+                <element signature="e#7157#7158#0" expanded="true" />
+                <element signature="e#7200#7201#0" expanded="true" />
+                <element signature="e#7259#7260#0" expanded="true" />
+                <element signature="e#7294#7295#0" expanded="true" />
+                <element signature="e#7349#7350#0" expanded="true" />
+                <element signature="e#7385#7386#0" expanded="true" />
+                <element signature="e#7772#7773#0" expanded="true" />
+                <element signature="e#7829#7830#0" expanded="true" />
+                <element signature="e#7882#7883#0" expanded="true" />
+                <element signature="e#7933#7934#0" expanded="true" />
+                <element signature="e#7989#7990#0" expanded="true" />
+                <element signature="e#8034#8035#0" expanded="true" />
+                <element signature="e#8084#8085#0" expanded="true" />
+                <element signature="e#8140#8141#0" expanded="true" />
+                <element signature="class#via_add_bossbar_player#0;class#Functions#0" expanded="false" />
+                <element signature="e#8531#8532#0" expanded="true" />
+                <element signature="e#8566#8567#0" expanded="true" />
+                <element signature="e#8621#8622#0" expanded="true" />
+                <element signature="e#8657#8658#0" expanded="true" />
+                <element signature="e#9330#9331#0" expanded="true" />
+                <element signature="e#9387#9388#0" expanded="true" />
+                <element signature="e#9440#9441#0" expanded="true" />
+                <element signature="e#9495#9496#0" expanded="true" />
+                <element signature="e#9551#9552#0" expanded="true" />
+                <element signature="e#9596#9597#0" expanded="true" />
+                <element signature="e#9646#9647#0" expanded="true" />
+                <element signature="e#9714#9715#0" expanded="true" />
+                <element signature="class#via_remove_bossbar_player#0;class#Functions#0" expanded="false" />
+                <element signature="e#10108#10109#0" expanded="true" />
+                <element signature="e#10143#10144#0" expanded="true" />
+                <element signature="e#10198#10199#0" expanded="true" />
+                <element signature="e#10234#10235#0" expanded="true" />
+                <element signature="e#10910#10911#0" expanded="true" />
+                <element signature="e#10967#10968#0" expanded="true" />
+                <element signature="e#11020#11021#0" expanded="true" />
+                <element signature="e#11078#11079#0" expanded="true" />
+                <element signature="e#11134#11135#0" expanded="true" />
+                <element signature="e#11179#11180#0" expanded="true" />
+                <element signature="e#11229#11230#0" expanded="true" />
+                <element signature="e#11301#11302#0" expanded="true" />
+                <element signature="class#via_get_bossbar_players#0;class#Functions#0" expanded="false" />
+                <element signature="e#11640#11641#0" expanded="true" />
+                <element signature="e#11675#11676#0" expanded="true" />
+                <element signature="e#11730#11731#0" expanded="true" />
+                <element signature="e#11766#11767#0" expanded="true" />
+                <element signature="e#12089#12090#0" expanded="true" />
+                <element signature="e#12146#12147#0" expanded="true" />
+                <element signature="e#12199#12200#0" expanded="true" />
+                <element signature="e#12255#12256#0" expanded="true" />
+                <element signature="e#12311#12312#0" expanded="true" />
+                <element signature="e#12356#12357#0" expanded="true" />
+                <element signature="e#12406#12407#0" expanded="true" />
+                <element signature="e#12478#12479#0" expanded="true" />
+                <element signature="class#via_set_bossbar_visible#0;class#Functions#0" expanded="false" />
+                <element signature="e#12817#12818#0" expanded="true" />
+                <element signature="e#12852#12853#0" expanded="true" />
+                <element signature="e#12907#12908#0" expanded="true" />
+                <element signature="e#12943#12944#0" expanded="true" />
+                <element signature="e#13369#13370#0" expanded="true" />
+                <element signature="e#13426#13427#0" expanded="true" />
+                <element signature="e#13479#13480#0" expanded="true" />
+                <element signature="e#13535#13536#0" expanded="true" />
+                <element signature="e#13591#13592#0" expanded="true" />
+                <element signature="e#13636#13637#0" expanded="true" />
+                <element signature="e#13686#13687#0" expanded="true" />
+                <element signature="e#13758#13759#0" expanded="true" />
+                <element signature="class#via_set_bossbar_options#0;class#Functions#0" expanded="false" />
+                <element signature="e#14187#14188#0" expanded="true" />
+                <element signature="e#14222#14223#0" expanded="true" />
+                <element signature="e#14277#14278#0" expanded="true" />
+                <element signature="e#14313#14314#0" expanded="true" />
+                <element signature="e#15040#15041#0" expanded="true" />
+                <element signature="e#15097#15098#0" expanded="true" />
+                <element signature="e#15150#15151#0" expanded="true" />
+                <element signature="e#15206#15207#0" expanded="true" />
+                <element signature="e#15262#15263#0" expanded="true" />
+                <element signature="e#15307#15308#0" expanded="true" />
+                <element signature="e#15357#15358#0" expanded="true" />
+                <element signature="e#15432#15433#0" expanded="true" />
+                <element signature="class#via_get_bossbar_options#0;class#Functions#0" expanded="false" />
+                <element signature="e#15771#15772#0" expanded="true" />
+                <element signature="e#15806#15807#0" expanded="true" />
+                <element signature="e#15861#15862#0" expanded="true" />
+                <element signature="e#15897#15898#0" expanded="true" />
+                <element signature="e#16220#16221#0" expanded="true" />
+                <element signature="e#16277#16278#0" expanded="true" />
+                <element signature="e#16330#16331#0" expanded="true" />
+                <element signature="e#16386#16387#0" expanded="true" />
+                <element signature="e#16442#16443#0" expanded="true" />
+                <element signature="e#16487#16488#0" expanded="true" />
+                <element signature="e#16537#16538#0" expanded="true" />
+                <element signature="e#16606#16607#0" expanded="true" />
+                <element signature="class#via_set_bossbar_flags#0;class#Functions#0" expanded="false" />
+                <element signature="e#17033#17034#0" expanded="true" />
+                <element signature="e#17068#17069#0" expanded="true" />
+                <element signature="e#17123#17124#0" expanded="true" />
+                <element signature="e#17159#17160#0" expanded="true" />
+                <element signature="e#17886#17887#0" expanded="true" />
+                <element signature="e#17943#17944#0" expanded="true" />
+                <element signature="e#17996#17997#0" expanded="true" />
+                <element signature="e#18050#18051#0" expanded="true" />
+                <element signature="e#18106#18107#0" expanded="true" />
+                <element signature="e#18151#18152#0" expanded="true" />
+                <element signature="class#via_has_bossbar_flag#0;class#Functions#0" expanded="false" />
+                <element signature="e#18743#18744#0" expanded="true" />
+                <element signature="e#18778#18779#0" expanded="true" />
+                <element signature="e#18833#18834#0" expanded="true" />
+                <element signature="e#18869#18870#0" expanded="true" />
+                <element signature="e#19323#19324#0" expanded="true" />
+                <element signature="e#19380#19381#0" expanded="true" />
+                <element signature="e#19433#19434#0" expanded="true" />
+                <element signature="e#19486#19487#0" expanded="true" />
+                <element signature="e#19542#19543#0" expanded="true" />
+                <element signature="e#19587#19588#0" expanded="true" />
+                <element signature="e#19637#19638#0" expanded="true" />
+                <element signature="e#19735#19736#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <file leaf-file-name="BossBarFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/me/itstake/chviaversion/bossbar/BossBarFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1083">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="519">
+              <caret line="98" column="78" lean-forward="false" selection-start-line="98" selection-start-column="78" selection-end-line="98" selection-end-column="78" />
               <folding>
-                <marker date="1523700480519" expanded="true" signature="65285:65390" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="65285:65375" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="65285:65362" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="65285:65344" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="65285:65327" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="65425:67971" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="65438:67956" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="65492:65876" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="65511:65861" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="65624:65841" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="65664:65807" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="65685:65785" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="65926:66253" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="65945:66238" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66040:66218" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66080:66184" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66101:66162" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66304:66569" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66323:66554" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66356:66534" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66396:66500" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66417:66478" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66612:66918" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66631:66903" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66705:66883" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66745:66849" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66766:66827" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66969:67284" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="66988:67269" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="67071:67249" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="67111:67215" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="67132:67193" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="67319:67625" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="67338:67610" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="67412:67590" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="67452:67556" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="67473:67534" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="67677:67942" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="67696:67927" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="67729:67907" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="67769:67873" ph="..." />
-                <marker date="1523700480519" expanded="true" signature="67790:67851" ph="..." />
+                <element signature="imports" expanded="true" />
+                <element signature="method#addBossBar#0;class#BossBarFactory#0" expanded="false" />
+                <element signature="method#removeBossBar#0;class#BossBarFactory#0" expanded="false" />
+                <element signature="method#addPlayer#0;class#BossBarFactory#0" expanded="false" />
+                <element signature="method#removePlayer#0;class#BossBarFactory#0" expanded="false" />
+                <element signature="method#getPlayers#0;class#BossBarFactory#0" expanded="false" />
+                <element signature="method#setVisible#0;class#BossBarFactory#0" expanded="false" />
+                <element signature="method#setOptions#0;class#BossBarFactory#0" expanded="false" />
+                <element signature="method#getOptions#0;class#BossBarFactory#0" expanded="false" />
+                <element signature="method#hasFlag#0;class#BossBarFactory#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -193,6 +315,11 @@
         <option value="$PROJECT_DIR$/src/tk/itstake/chprotocolsupport/LifeCylcles.java" />
         <option value="$PROJECT_DIR$/src/tk/itstake/chprotocolsupport/Functions.java" />
         <option value="$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/libs/commandhelper-3.3.2-SNAPSHOT.jar!/com/laytonsmith/core/constructs/CBoolean.class" />
+        <option value="$PROJECT_DIR$/libs/commandhelper-3.3.2-SNAPSHOT.jar!/com/laytonsmith/core/constructs/CString.class" />
+        <option value="$PROJECT_DIR$/src/me/itstake/chviaversion/bossbar/BossBarFactory.java" />
+        <option value="$PROJECT_DIR$/src/me/itstake/chviaversion/Functions.java" />
       </list>
     </option>
   </component>
@@ -202,7 +329,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="958" />
     <option name="height" value="1057" />
@@ -225,8 +352,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,14 +390,16 @@
               <item name="CHViaVersion" type="b2602c69:ProjectViewProjectNode" />
               <item name="CHViaVersion" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chprotocolsupport" type="462c0819:PsiDirectoryNode" />
+              <item name="chviaversion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -767,26 +894,27 @@
     <option name="totallyTimeSpent" value="3842000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="958" height="1057" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32615715" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52783966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2585288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494244" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -797,6 +925,35 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494244" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32615715" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2585288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -844,7 +1001,9 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -852,218 +1011,49 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="69" column="91" lean-forward="false" selection-start-line="69" selection-start-column="91" selection-end-line="69" selection-end-column="91" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-            <element signature="e#1949#1950#0" expanded="true" />
-            <element signature="e#1985#1986#0" expanded="true" />
-            <element signature="e#2040#2041#0" expanded="true" />
-            <element signature="e#2076#2077#0" expanded="true" />
-            <element signature="e#2909#2910#0" expanded="true" />
-            <element signature="e#2964#2965#0" expanded="true" />
-            <element signature="e#3020#3021#0" expanded="true" />
-            <element signature="e#3070#3071#0" expanded="true" />
-            <element signature="e#3407#3408#0" expanded="true" />
-            <element signature="e#3464#3465#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-            <element signature="e#1949#1950#0" expanded="true" />
-            <element signature="e#1985#1986#0" expanded="true" />
-            <element signature="e#2040#2041#0" expanded="true" />
-            <element signature="e#2076#2077#0" expanded="true" />
-            <element signature="e#2909#2910#0" expanded="true" />
-            <element signature="e#2964#2965#0" expanded="true" />
-            <element signature="e#3020#3021#0" expanded="true" />
-            <element signature="e#3070#3071#0" expanded="true" />
-            <element signature="e#3407#3408#0" expanded="true" />
-            <element signature="e#3464#3465#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-            <element signature="e#1949#1950#0" expanded="true" />
-            <element signature="e#1985#1986#0" expanded="true" />
-            <element signature="e#2040#2041#0" expanded="true" />
-            <element signature="e#2076#2077#0" expanded="true" />
-            <element signature="e#2909#2910#0" expanded="true" />
-            <element signature="e#2964#2965#0" expanded="true" />
-            <element signature="e#3020#3021#0" expanded="true" />
-            <element signature="e#3070#3071#0" expanded="true" />
-            <element signature="e#3407#3408#0" expanded="true" />
-            <element signature="e#3464#3465#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-            <element signature="e#1949#1950#0" expanded="true" />
-            <element signature="e#1985#1986#0" expanded="true" />
-            <element signature="e#2040#2041#0" expanded="true" />
-            <element signature="e#2076#2077#0" expanded="true" />
-            <element signature="e#2909#2910#0" expanded="true" />
-            <element signature="e#2964#2965#0" expanded="true" />
-            <element signature="e#3020#3021#0" expanded="true" />
-            <element signature="e#3070#3071#0" expanded="true" />
-            <element signature="e#3407#3408#0" expanded="true" />
-            <element signature="e#3464#3465#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-            <element signature="e#1949#1950#0" expanded="true" />
-            <element signature="e#1985#1986#0" expanded="true" />
-            <element signature="e#2040#2041#0" expanded="true" />
-            <element signature="e#2076#2077#0" expanded="true" />
-            <element signature="e#2909#2910#0" expanded="true" />
-            <element signature="e#2964#2965#0" expanded="true" />
-            <element signature="e#3020#3021#0" expanded="true" />
-            <element signature="e#3070#3071#0" expanded="true" />
-            <element signature="e#3407#3408#0" expanded="true" />
-            <element signature="e#3464#3465#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-            <element signature="e#1949#1950#0" expanded="true" />
-            <element signature="e#1985#1986#0" expanded="true" />
-            <element signature="e#2040#2041#0" expanded="true" />
-            <element signature="e#2076#2077#0" expanded="true" />
-            <element signature="e#2909#2910#0" expanded="true" />
-            <element signature="e#2964#2965#0" expanded="true" />
-            <element signature="e#3020#3021#0" expanded="true" />
-            <element signature="e#3070#3071#0" expanded="true" />
-            <element signature="e#3407#3408#0" expanded="true" />
-            <element signature="e#3464#3465#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/commandhelper-3.3.2-SNAPSHOT.jar!/com/laytonsmith/core/extensions/MSExtension.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/commandhelper-3.3.2-SNAPSHOT.jar!/com/laytonsmith/core/extensions/AbstractExtension.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1523803764388" expanded="true" signature="88287:88302" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88337:90883" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88350:90868" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88404:88788" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88423:88773" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88536:88753" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88576:88719" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88597:88697" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88838:89165" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88857:89150" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88952:89130" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88992:89096" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89013:89074" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89216:89481" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89235:89466" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89268:89446" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89308:89412" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89329:89390" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89524:89830" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89543:89815" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89617:89795" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89657:89761" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89678:89739" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89881:90196" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89900:90181" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89983:90161" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90023:90127" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90044:90105" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90231:90537" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90250:90522" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90324:90502" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90364:90468" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90385:90446" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90589:90854" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90608:90839" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90641:90819" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90681:90785" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90702:90763" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1108,53 +1098,116 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java" />
+    <entry file="jar://$PROJECT_DIR$/libs/commandhelper-3.3.2-SNAPSHOT.jar!/com/laytonsmith/core/extensions/MSExtension.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/commandhelper-3.3.2-SNAPSHOT.jar!/com/laytonsmith/core/extensions/AbstractExtension.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/LifeCylcles.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHViaVersion.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/CHViaVersion.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1083">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1523700480519" expanded="true" signature="65285:65390" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="65285:65375" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="65285:65362" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="65285:65344" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="65285:65327" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="65425:67971" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="65438:67956" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="65492:65876" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="65511:65861" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="65624:65841" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="65664:65807" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="65685:65785" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="65926:66253" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="65945:66238" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66040:66218" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66080:66184" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66101:66162" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66304:66569" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66323:66554" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66356:66534" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66396:66500" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66417:66478" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66612:66918" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66631:66903" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66705:66883" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66745:66849" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66766:66827" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66969:67284" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="66988:67269" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="67071:67249" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="67111:67215" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="67132:67193" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="67319:67625" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="67338:67610" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="67412:67590" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="67452:67556" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="67473:67534" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="67677:67942" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="67696:67927" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="67729:67907" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="67769:67873" ph="..." />
-            <marker date="1523700480519" expanded="true" signature="67790:67851" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88287:88302" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88337:90883" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88350:90868" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88404:88788" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88423:88773" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88536:88753" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88576:88719" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88597:88697" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88838:89165" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88857:89150" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88952:89130" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="88992:89096" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89013:89074" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89216:89481" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89235:89466" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89268:89446" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89308:89412" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89329:89390" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89524:89830" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89543:89815" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89617:89795" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89657:89761" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89678:89739" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89881:90196" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89900:90181" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="89983:90161" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90023:90127" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90044:90105" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90231:90537" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90250:90522" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90324:90502" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90364:90468" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90385:90446" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90589:90854" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90608:90839" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90641:90819" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90681:90785" ph="..." />
+            <marker date="1523803764388" expanded="true" signature="90702:90763" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1167,24 +1220,178 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java">
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chprotocolsupport/Functions.java" />
+    <entry file="jar://$PROJECT_DIR$/libs/commandhelper-3.3.2-SNAPSHOT.jar!/com/laytonsmith/core/constructs/CBoolean.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="72" column="17" lean-forward="false" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
+        <state relative-caret-position="-9">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/commandhelper-3.3.2-SNAPSHOT.jar!/com/laytonsmith/core/constructs/CString.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chviaversion/bossbar/BossBarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="98" column="78" lean-forward="false" selection-start-line="98" selection-start-column="78" selection-end-line="98" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-            <element signature="e#1949#1950#0" expanded="true" />
-            <element signature="e#1985#1986#0" expanded="true" />
-            <element signature="e#2040#2041#0" expanded="true" />
-            <element signature="e#2076#2077#0" expanded="true" />
-            <element signature="e#2909#2910#0" expanded="true" />
-            <element signature="e#2964#2965#0" expanded="true" />
-            <element signature="e#3020#3021#0" expanded="true" />
-            <element signature="e#3070#3071#0" expanded="true" />
-            <element signature="e#3407#3408#0" expanded="true" />
-            <element signature="e#3464#3465#0" expanded="true" />
+            <element signature="method#addBossBar#0;class#BossBarFactory#0" expanded="false" />
+            <element signature="method#removeBossBar#0;class#BossBarFactory#0" expanded="false" />
+            <element signature="method#addPlayer#0;class#BossBarFactory#0" expanded="false" />
+            <element signature="method#removePlayer#0;class#BossBarFactory#0" expanded="false" />
+            <element signature="method#getPlayers#0;class#BossBarFactory#0" expanded="false" />
+            <element signature="method#setVisible#0;class#BossBarFactory#0" expanded="false" />
+            <element signature="method#setOptions#0;class#BossBarFactory#0" expanded="false" />
+            <element signature="method#getOptions#0;class#BossBarFactory#0" expanded="false" />
+            <element signature="method#hasFlag#0;class#BossBarFactory#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/itstake/chviaversion/Functions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1691">
+          <caret line="436" column="73" lean-forward="false" selection-start-line="436" selection-start-column="73" selection-end-line="436" selection-end-column="73" />
+          <folding>
+            <element signature="e#1337#1338#0" expanded="true" />
+            <element signature="e#1392#1393#0" expanded="true" />
+            <element signature="class#via_add_bossbar#0;class#Functions#0" expanded="false" />
+            <element signature="e#3703#3704#0" expanded="true" />
+            <element signature="e#3738#3739#0" expanded="true" />
+            <element signature="e#3793#3794#0" expanded="true" />
+            <element signature="e#3829#3830#0" expanded="true" />
+            <element signature="method#exec#0;class#via_add_bossbar#0;class#Functions#0" expanded="false" />
+            <element signature="e#6378#6379#0" expanded="true" />
+            <element signature="e#6435#6436#0" expanded="true" />
+            <element signature="e#6488#6489#0" expanded="true" />
+            <element signature="e#6536#6537#0" expanded="true" />
+            <element signature="e#6592#6593#0" expanded="true" />
+            <element signature="e#6637#6638#0" expanded="true" />
+            <element signature="class#via_remove_bossbar#0;class#Functions#0" expanded="false" />
+            <element signature="e#7157#7158#0" expanded="true" />
+            <element signature="e#7200#7201#0" expanded="true" />
+            <element signature="e#7259#7260#0" expanded="true" />
+            <element signature="e#7294#7295#0" expanded="true" />
+            <element signature="e#7349#7350#0" expanded="true" />
+            <element signature="e#7385#7386#0" expanded="true" />
+            <element signature="e#7772#7773#0" expanded="true" />
+            <element signature="e#7829#7830#0" expanded="true" />
+            <element signature="e#7882#7883#0" expanded="true" />
+            <element signature="e#7933#7934#0" expanded="true" />
+            <element signature="e#7989#7990#0" expanded="true" />
+            <element signature="e#8034#8035#0" expanded="true" />
+            <element signature="e#8084#8085#0" expanded="true" />
+            <element signature="e#8140#8141#0" expanded="true" />
+            <element signature="class#via_add_bossbar_player#0;class#Functions#0" expanded="false" />
+            <element signature="e#8531#8532#0" expanded="true" />
+            <element signature="e#8566#8567#0" expanded="true" />
+            <element signature="e#8621#8622#0" expanded="true" />
+            <element signature="e#8657#8658#0" expanded="true" />
+            <element signature="e#9330#9331#0" expanded="true" />
+            <element signature="e#9387#9388#0" expanded="true" />
+            <element signature="e#9440#9441#0" expanded="true" />
+            <element signature="e#9495#9496#0" expanded="true" />
+            <element signature="e#9551#9552#0" expanded="true" />
+            <element signature="e#9596#9597#0" expanded="true" />
+            <element signature="e#9646#9647#0" expanded="true" />
+            <element signature="e#9714#9715#0" expanded="true" />
+            <element signature="class#via_remove_bossbar_player#0;class#Functions#0" expanded="false" />
+            <element signature="e#10108#10109#0" expanded="true" />
+            <element signature="e#10143#10144#0" expanded="true" />
+            <element signature="e#10198#10199#0" expanded="true" />
+            <element signature="e#10234#10235#0" expanded="true" />
+            <element signature="e#10910#10911#0" expanded="true" />
+            <element signature="e#10967#10968#0" expanded="true" />
+            <element signature="e#11020#11021#0" expanded="true" />
+            <element signature="e#11078#11079#0" expanded="true" />
+            <element signature="e#11134#11135#0" expanded="true" />
+            <element signature="e#11179#11180#0" expanded="true" />
+            <element signature="e#11229#11230#0" expanded="true" />
+            <element signature="e#11301#11302#0" expanded="true" />
+            <element signature="class#via_get_bossbar_players#0;class#Functions#0" expanded="false" />
+            <element signature="e#11640#11641#0" expanded="true" />
+            <element signature="e#11675#11676#0" expanded="true" />
+            <element signature="e#11730#11731#0" expanded="true" />
+            <element signature="e#11766#11767#0" expanded="true" />
+            <element signature="e#12089#12090#0" expanded="true" />
+            <element signature="e#12146#12147#0" expanded="true" />
+            <element signature="e#12199#12200#0" expanded="true" />
+            <element signature="e#12255#12256#0" expanded="true" />
+            <element signature="e#12311#12312#0" expanded="true" />
+            <element signature="e#12356#12357#0" expanded="true" />
+            <element signature="e#12406#12407#0" expanded="true" />
+            <element signature="e#12478#12479#0" expanded="true" />
+            <element signature="class#via_set_bossbar_visible#0;class#Functions#0" expanded="false" />
+            <element signature="e#12817#12818#0" expanded="true" />
+            <element signature="e#12852#12853#0" expanded="true" />
+            <element signature="e#12907#12908#0" expanded="true" />
+            <element signature="e#12943#12944#0" expanded="true" />
+            <element signature="e#13369#13370#0" expanded="true" />
+            <element signature="e#13426#13427#0" expanded="true" />
+            <element signature="e#13479#13480#0" expanded="true" />
+            <element signature="e#13535#13536#0" expanded="true" />
+            <element signature="e#13591#13592#0" expanded="true" />
+            <element signature="e#13636#13637#0" expanded="true" />
+            <element signature="e#13686#13687#0" expanded="true" />
+            <element signature="e#13758#13759#0" expanded="true" />
+            <element signature="class#via_set_bossbar_options#0;class#Functions#0" expanded="false" />
+            <element signature="e#14187#14188#0" expanded="true" />
+            <element signature="e#14222#14223#0" expanded="true" />
+            <element signature="e#14277#14278#0" expanded="true" />
+            <element signature="e#14313#14314#0" expanded="true" />
+            <element signature="e#15040#15041#0" expanded="true" />
+            <element signature="e#15097#15098#0" expanded="true" />
+            <element signature="e#15150#15151#0" expanded="true" />
+            <element signature="e#15206#15207#0" expanded="true" />
+            <element signature="e#15262#15263#0" expanded="true" />
+            <element signature="e#15307#15308#0" expanded="true" />
+            <element signature="e#15357#15358#0" expanded="true" />
+            <element signature="e#15432#15433#0" expanded="true" />
+            <element signature="class#via_get_bossbar_options#0;class#Functions#0" expanded="false" />
+            <element signature="e#15771#15772#0" expanded="true" />
+            <element signature="e#15806#15807#0" expanded="true" />
+            <element signature="e#15861#15862#0" expanded="true" />
+            <element signature="e#15897#15898#0" expanded="true" />
+            <element signature="e#16220#16221#0" expanded="true" />
+            <element signature="e#16277#16278#0" expanded="true" />
+            <element signature="e#16330#16331#0" expanded="true" />
+            <element signature="e#16386#16387#0" expanded="true" />
+            <element signature="e#16442#16443#0" expanded="true" />
+            <element signature="e#16487#16488#0" expanded="true" />
+            <element signature="e#16537#16538#0" expanded="true" />
+            <element signature="e#16606#16607#0" expanded="true" />
+            <element signature="class#via_set_bossbar_flags#0;class#Functions#0" expanded="false" />
+            <element signature="e#17033#17034#0" expanded="true" />
+            <element signature="e#17068#17069#0" expanded="true" />
+            <element signature="e#17123#17124#0" expanded="true" />
+            <element signature="e#17159#17160#0" expanded="true" />
+            <element signature="e#17886#17887#0" expanded="true" />
+            <element signature="e#17943#17944#0" expanded="true" />
+            <element signature="e#17996#17997#0" expanded="true" />
+            <element signature="e#18050#18051#0" expanded="true" />
+            <element signature="e#18106#18107#0" expanded="true" />
+            <element signature="e#18151#18152#0" expanded="true" />
+            <element signature="class#via_has_bossbar_flag#0;class#Functions#0" expanded="false" />
+            <element signature="e#18743#18744#0" expanded="true" />
+            <element signature="e#18778#18779#0" expanded="true" />
+            <element signature="e#18833#18834#0" expanded="true" />
+            <element signature="e#18869#18870#0" expanded="true" />
+            <element signature="e#19323#19324#0" expanded="true" />
+            <element signature="e#19380#19381#0" expanded="true" />
+            <element signature="e#19433#19434#0" expanded="true" />
+            <element signature="e#19486#19487#0" expanded="true" />
+            <element signature="e#19542#19543#0" expanded="true" />
+            <element signature="e#19587#19588#0" expanded="true" />
+            <element signature="e#19637#19638#0" expanded="true" />
+            <element signature="e#19735#19736#0" expanded="true" />
           </folding>
         </state>
       </provider>
